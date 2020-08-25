@@ -1,0 +1,17 @@
+insert into CLIENTE values 
+(1,'Monica','Chavez','1315392851','calle 329 av 212','monica@gmail.com'),
+(2,'Kathiuska','Zambrano','1315234568','calle 329 av 212','kathi@gmail.com'),
+(3,'Maria','Cedeño','1312987653','calle 220 av 125','maria@hotmail.com'),
+(4,'Karina','Rodrigues','1314479808','calle 13 av 219','Karina_98@gmail.com');
+
+insert into PEDIATRA values 
+(1,'Cobos','Rodrigues','0987654321','1315928582','calle 13 av 25'),
+(2,'Jonathan','Mero','0934743583','1319328392','calle 115 av 255'),
+(3,'Jimmy','Ruiz','0924617894','1316891947','calle 233 av 125'),
+(4,'Edgar','Chavez','0990865498','1315997948','calle 319 av 212');
+
+insert into centrodesalud values
+(1,1,'los esteros','centroester@gmail.com','0923821928'),
+(2,2,'parroquia eloy alfaro','15salud@gmail.es','0912345678'),
+(3,3,'urbirrios','urbi@hotmail.com','0945678901'),
+(4,4,'cuba libre','cubalibred@gmail.com','0947284902');
